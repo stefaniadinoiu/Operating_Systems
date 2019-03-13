@@ -33,6 +33,6 @@ Fulfill the previous tasks  using getpid(2) and getppid(2).
 string. The inversion will be done in antother thread. 
 The result will be obtained with the pthread_join function.
 
-6.Write a program for calculating the multiplication of 2 given
+6. Write a program for calculating the multiplication of 2 given
 matrices where each element of the resulted matrix it is going
 to be calculated by a different thread.
